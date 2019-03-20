@@ -1,5 +1,5 @@
 export default ({
   item: {
-    name: 'Xutongbao'
+    name: 'Xutongbaos'
   }
 })
